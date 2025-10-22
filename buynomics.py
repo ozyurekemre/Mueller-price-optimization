@@ -1,6 +1,6 @@
 
 ##############################
-# Mueller price optimisation
+# Mueller price optimization
 ##############################
 
 import seaborn as sns
@@ -331,3 +331,4 @@ revenue_no_low = float(df_no_low["revenue"].sum())
 
 print(f"Low-performing brands ({len(low_brands)}): {low_brands}")
 print(f"Revenue excluding low-performing brands: {revenue_no_low:,.2f}")
+
