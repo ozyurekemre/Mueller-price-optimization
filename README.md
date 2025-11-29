@@ -1,0 +1,1 @@
+X firm is helping a client to optimize revenue by modelling how sales are affected by pricing, product offering and promotions. As part of a new software solution, you are researching options to solve this in a data-science-driven manner.
