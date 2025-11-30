@@ -48,6 +48,8 @@ Data is merged on `product_id` and a new variable is created:
 
 ```python
 df["revenue"] = df["price"] * df["units"]
+
+
 🧠 Methodology
 1️⃣ Exploratory Data Analysis
 
